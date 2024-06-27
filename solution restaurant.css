@@ -1,0 +1,88 @@
+body{
+  background-color: black;
+}
+
+
+@media (min-width:10px){
+h1{
+  font-family: "Zeyada", cursive;
+  color: bisque;
+  text-align: center;
+  font-size: 75px;
+}
+
+h2{
+  font-family: "Zeyada", cursive;
+  color: bisque;
+  text-align: center;
+  font-size: 2rem;
+
+}
+
+
+.first{
+  background-color: black;
+  display: inline-block;
+  height: 300px;
+  width: 400px;
+  float: left;
+  
+  
+}
+
+.red{
+  font-family: "Zeyada", cursive;
+  color: bisque;
+  float:right;
+  font-size: 2rem;
+}
+
+img{
+  height: 150px;
+  width: 200px;
+  margin: 10PX;
+}
+
+.blue{
+  font-family: "Zeyada", cursive;
+  color: bisque;
+  float:right;
+  font-size: 2rem;
+}
+
+.second{
+  background-color: black;
+  display: inline-block;
+  height: 00px;
+  width: 400px;
+  float: right;
+  text-align: justify;
+}
+
+.green{
+  float: right;
+  font-family: "Zeyada", cursive;
+  color: bisque;
+  font-size: 2rem;
+}
+
+.yellow{
+  font-family: "Zeyada", cursive;
+  color: bisque;
+  font-size: 2rem;
+}
+
+
+.third{
+  font-family: "Zeyada", cursive;
+  color: bisque;
+  text-align: center;
+  font-size:1.5rem;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+
+
+
+}
+}
